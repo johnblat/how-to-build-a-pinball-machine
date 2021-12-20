@@ -40,14 +40,10 @@ And lasty, as a disclaimer, get ready to shell out $1000+ in cold hard cash for 
         - Yellow
         - Blue
     - Link: https://bulkwire.com/stranded-hookup-wire-300volt-ul1007
-    ---
-    **Note**: I recommend getting the PVC insulation. The reason is that later on, you will crimp and put pins into computer board pin housing, and I've personally had an easier time working with the PVCs to push them into the housing than other isulation materials like silicon. However, silicon is softer and might be easier to manage when your rat nest grows. It really doesn't matter what insulation material you have really
+    - **Note**: I recommend getting the PVC insulation. The reason is that later on, you will crimp and put pins into computer board pin housing, and I've personally had an easier time working with the PVCs to push them into the housing than other isulation materials like silicon. However, silicon is softer and might be easier to manage when your rat nest grows. It really doesn't matter what insulation material you have really
+    - **Another note**: While you are buying this wire, you can order additional colors if you like. They'll surely come in handy one day
 
-    ---
-    ---
-    **Another note**: While you are buying this wire, you can order additional colors if you like. They'll surely come in handy one day
 
-    ---
 
 
 - ### Wire stripper
@@ -59,11 +55,8 @@ And lasty, as a disclaimer, get ready to shell out $1000+ in cold hard cash for 
     - Purpose: Obtaining information about electrical components or circuits
     - Not needed immediately, but I definitely recommend getting one and will reference using it in the following articles
     - Link: https://www.lowes.com/pd/IDEAL-ID-600-Volt-Auto-Range-Multimeter/5000045535
-    ---
-    **Note:** Enthusiasts seem to say that the Fluke brand is the ultimate multimeter, so maybe consider that - they can get pricey though.
+    - **Note:** Enthusiasts seem to say that the Fluke brand is the ultimate multimeter, so maybe consider that - they can get pricey though.
     
-    ---
-
 
 - ### 8 Amp Slow blow fuses / MDL fuses / Time-delay fuses
     - Purpose: Protects you and the components in the circuit. If too much current flows through the a fuse, it will break, and thus break the circuit. 
@@ -91,10 +84,9 @@ And lasty, as a disclaimer, get ready to shell out $1000+ in cold hard cash for 
     - Purpose: To enclose and hold the fuse
     - Link: https://www.amazon.com/gp/your-account/order-history/ref=ppx_yo_dt_b_search_od?ie=UTF8&ij=&opt=ab&ref_=&search=112-7218553-0804265
     - Make sure whatever one you get is equal or higher than the fuses you have chosen in terms of amperage  
-    ---
-    **Note:** There are other types of fuse holders. If you decide to buy one that is not enclosed, be sure to enclose this somehow because if you or something else conductive comes into contact with exposed metal on the circuit while the circuit is powered on, bad things will happen
+    
+    - **Note:** There are other types of fuse holders. If you decide to buy one that is not enclosed, be sure to enclose this somehow because if you or something else conductive comes into contact with exposed metal on the circuit while the circuit is powered on, bad things will happen
 
-    ---
 
 - ### Extension cord with exposed wires
     - Purpose: One end plugs into AC outlet. The other ends are exposed so that you can easily hook them up to your PSU, which will likely have exposed lugs for attaching wires to.
@@ -142,10 +134,10 @@ And lasty, as a disclaimer, get ready to shell out $1000+ in cold hard cash for 
     - If this is out of stock, you can buy the components individually here: https://store.fastpinball.com/
     - If the FAST boards are out of stock, you're out of luck until they stock up
     - If the power supplies, pins, or pin housings are out of stock, you can always buy them from different suppliers as they are 3rd party components
-    ---
-     **Note:** My advice is to buy a lot of extra pins and pin headers/housing as you may mess up attaching pins to wires at first and will want lots of spares. Pins are cheap so don't worry too much.
+    
+    - **Note:** My advice is to buy a lot of extra pins and pin headers/housing as you may mess up attaching pins to wires at first and will want lots of spares. Pins are cheap so don't worry too much.
 
-    ---
+    
 
 ### Power Entry Module (Optional)
 - Purpose: Exposes AC cord connection, a power switch, and typically comes with a fuse, or at least a place to put a fuse
